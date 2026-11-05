@@ -124,7 +124,7 @@ http://127.0.0.1:8000/
 <table>
 <tr>
 <td>
-<strong>ANDRÉ MEZA BARRIGA</strong><br/>
+<strong>Landis Sanchez Perez</strong><br/>
 Desarrollador de software | Tecnología IoT<br/><br/>
 <a href="https://github.com/landisperez21">
 <img src="https://img.shields.io/badge/GitHub-landisperez21-181717?style=flat-square&logo=github" />
