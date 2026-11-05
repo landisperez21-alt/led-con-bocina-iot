@@ -67,8 +67,7 @@ led_con_bocina/
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/andremezabarriga314/led_con_bocina.git
-```
+git clone https://github.com/landisperez21-alt/led-con-bocina-iot.git```
 
 Ingresa al directorio del proyecto:
 
